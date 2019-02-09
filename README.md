@@ -34,4 +34,4 @@ To get more help on the Angular CLI use `ionic help` or go check out the [Ionic 
 
 3- Configurar enviroment window/android, para cli cordova.
 
-![](www/img/cfg_command_line.png)
+![](img/cfg_command_line.png)
