@@ -31,3 +31,7 @@ To get more help on the Angular CLI use `ionic help` or go check out the [Ionic 
 1- Instalar: Node js | cli Ionic | Android Studio
 
 2- Crear: AVD en android estudio. 
+
+3- Configurar enviroment window/android, para cli cordova.
+
+![](www/img/cfg_command_line.png)
